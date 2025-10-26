@@ -20,6 +20,6 @@ A interface, construída com **Angular Material**, oferece uma experiência resp
 - MySQL — banco de dados relacional para persistência das entidades do sistema (usuários, editais, matrículas, avaliações).
 - Firebase (Storage) — usado exclusivamente como provedor de armazenamento em nuvem para arquivos enviados.
 
-## Link do projeto back-end
+## Link do projeto front-end
 
 - https://github.com/gaabrielalex/servidor-sistema-matricula-public-repo
