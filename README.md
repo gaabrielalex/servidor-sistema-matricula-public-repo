@@ -22,4 +22,4 @@ A interface, construída com **Angular Material**, oferece uma experiência resp
 
 ## Link do projeto front-end
 
-- https://github.com/gaabrielalex/servidor-sistema-matricula-public-repo
+- https://github.com/gaabrielalex/cliente-sistema-matricula
